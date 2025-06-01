@@ -172,6 +172,6 @@ public class UserRoleDao {
 
 ## 📤 Результати тестування
 
-![зображення](https://github.com/user-attachments/assets/9271f91e-dbdc-4369-a504-01136a2ccbb7)
+![зображення](https://raw.githubusercontent.com/qweitqx/BD-lab6/ea7f069d76dc3a24556eda7ec9856943b5dc6b0b/docs/test/%D0%B3%D1%96%D1%82%D1%85%D0%B0%D0%B1%D1%82%D0%B5%D1%81%D1%821.PNG)
 
-![зображення](https://github.com/user-attachments/assets/1d4f47be-f0d2-4755-9cbb-410d7e4a4ae1)
+![зображення](https://raw.githubusercontent.com/qweitqx/BD-lab6/ae248dd958c5aa9ade3e087b63497f7f7637cff3/docs/test/%D0%B3%D1%96%D1%82%D1%85%D0%B0%D0%B1%D1%82%D0%B5%D1%81%D1%822.PNG)
