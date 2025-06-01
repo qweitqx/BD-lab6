@@ -1,0 +1,3 @@
+C:\Users\Leonid\IdeaProjects\db__lab6\src\MainUserRoleTest.java
+C:\Users\Leonid\IdeaProjects\db__lab6\src\dao\UserRoleDao.java
+C:\Users\Leonid\IdeaProjects\db__lab6\src\model\UserRole.java
